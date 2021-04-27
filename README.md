@@ -22,7 +22,7 @@ ___
 
 ## Thanks to
 - Fadhiil Rachman / [Linepy](https://github.com/fadhiilrachman/line-py)
-- Yoshino / [simple-protect](https://github.com/Vallofe/simple-protect)
+- Yoshino / [simple-antijs](https://github.com/Vallofe/simple-antijs)
 - Autobots Corp.
 - Vanguard Team Bot
 - All My Friend
