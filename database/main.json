@@ -1,1 +1,42 @@
 
+{
+    "settings": {
+        "pictprofile": false,
+        "restartpoint": null,
+        "rname": "main",
+        "sname": "default",
+        "strictmode": true
+    },
+    "stats": {
+        "admins": {
+            "add": false,
+            "del": false,
+            "list": []
+        },
+        "antijs": {
+            "add": false,
+            "del": false,
+            "list": []
+        },
+        "banned": {
+            "add": false,
+            "del": false,
+            "list": []
+        },
+        "bots": {
+            "add": false,
+            "del": false,
+            "list": []
+        },
+        "owners": {
+            "add": false,
+            "del": false,
+            "list": []
+        },
+        "staffs": {
+            "add": false,
+            "del": false,
+            "list": []
+        }
+    }
+}
