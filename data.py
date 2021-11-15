@@ -1,6 +1,6 @@
 import livejson, requests, os, time, json, string, re, random, threading, traceback, sys
-from lib.akad import *
-from lib.akad.ttypes import TalkException
+from akad import *
+from akad.ttypes import TalkException
 
 class commands(threading.Thread):
     def __init__(self, fileName, client, app, uid):
