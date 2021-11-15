@@ -1,5 +1,5 @@
-from lib.linepy import *
-from lib.akad import *
+from linepy import *
+from akad import *
 from akad.ttypes import OpType, Message, TalkException
 from thrift.Thrift import *
 from thrift.unverting import *
