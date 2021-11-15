@@ -18,7 +18,7 @@ ___
 [GitHub](https://github.com/Vallofe)
  
 ## Forked
-[LINE](https://line.me/ti/p/~luscious.net) | [Instagram](https://www.instagram.com/mo.banzu/) | [Youtube](https://www.youtube.com/channel/UCPa_W8sqNpQrGCb8IvZflng?view_as=subscriber)
+[LINE](https://line.me/ti/p/~mo-banzu) | [Instagram](https://www.instagram.com/mo.banzu/) | [Youtube](https://www.youtube.com/channel/UCPa_W8sqNpQrGCb8IvZflng?view_as=subscriber)
 
 ## Thanks to
 - Fadhiil Rachman / [Linepy](https://github.com/fadhiilrachman/line-py)
